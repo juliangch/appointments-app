@@ -1,2 +1,7 @@
-api/node_modules
-api/bin
+node_modules/
+bin/
+
+package-lock.json
+
+*.log
+*.gz
